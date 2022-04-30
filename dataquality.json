@@ -1,0 +1,8 @@
+{
+    "name": "Data Quality Report",
+    "componentid": "ff784f7d-cf13-468d-871d-1b7d4fd7dfc5",
+    "component": "reports/dataquality",
+    "componentname": "dataquality",
+    "description": "A report based on the quality of the data.",
+    "defaultconfig": {}
+}
